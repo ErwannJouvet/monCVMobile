@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">monCVMobile</string>
+    <string name="firstname">Erwann Jouvet</string>
+    <string name="tel">+33661800722</string>
+    <string name="email">erwannkx@yahoo.fr</string>
+    <string name="adress">9 rue de la bièvre, 94250 Gentilly</string>
+    <string name="textViewExp"><u>Expériences</u></string>
+    <string name="textViewFormation"><u>Formation</u></string>
+    <array name="ListViewExp">
+        <item>Expérience1</item>
+        <item>Expérience2</item>
+    </array>
+    <array name="ListViewFormation">
+        <item>Formation1</item>
+        <item>Formation2</item>
+        <item>Formation3</item>
+    </array>
+    <string name="ButtonCompetences">Compétences</string>
+    <string name="textViewLangage"><u>Langages</u></string>
+    <string name="textViewProjet"><u>Projets</u></string>
+</resources>
